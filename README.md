@@ -1,4 +1,4 @@
-# GameBoost - Executable File Scanner
+# EXEcelerate - Executable File Scanner
 
 A professional Windows application for scanning executable files (.exe) across your drives and folders and for creating registry keys to give high CPU priority for better performance.
 
@@ -14,27 +14,27 @@ A professional Windows application for scanning executable files (.exe) across y
 ### Download and Install
 
 1. **Download the latest version:**
-   - Go to the [Releases page](https://github.com/tezelcan/gameboost-app/releases)
-   - Download `GameBoost_v{version}_Setup.exe`
+   - Go to the [Releases page](https://github.com/tezelcan/execelerate-app/releases)
+   - Download `EXEcelerate_v{version}_Setup.exe`
 
-2. **Install GameBoost:**
+2. **Install EXEcelerate:**
    - Run the downloaded installer
    - Follow the installation wizard
    - The installer will request administrator privileges (required for registry optimization)
-   - GameBoost will be installed to `C:\Program Files\GameBoost\` by default
+   - EXEcelerate will be installed to `C:\Program Files\EXEcelerate\` by default
 
-3. **Launch GameBoost:**
-   - Find GameBoost in your Start menu
+3. **Launch EXEcelerate:**
+   - Find EXEcelerate in your Start menu
    - Or use the desktop shortcut (if selected during installation)
 
 ### First Run
 
-When you first run GameBoost, it will:
+When you first run EXEcelerate, it will:
 - Request administrator privileges (required for registry optimization)
 - Check for updates automatically
 - Show the main application window
 
-## How to Use GameBoost
+## How to Use EXEcelerate
 
 ### 1. Select Locations to Scan
 
@@ -55,20 +55,20 @@ When you first run GameBoost, it will:
 ### 4. Boost Performance
 
 - Click **"BOOST"** to optimize selected applications
-- GameBoost will create Windows registry folder and keys to give high CPU priority to the selected .exe files
+- EXEcelerate will create Windows registry folder and keys to give high CPU priority to the selected .exe files
 
-## Uninstalling GameBoost
+## Uninstalling EXEcelerate
 
-To remove GameBoost from your system:
+To remove EXEcelerate from your system:
 
 1. **Using Windows Settings:**
    - Go to Settings → Apps
-   - Find "GameBoost" in the list
+   - Find "EXEcelerate" in the list
    - Click "Uninstall"
 
 2. **Using Control Panel:**
    - Open Control Panel → Programs and Features
-   - Find "GameBoost" in the list
+   - Find "EXEcelerate" in the list
    - Click "Uninstall"
 
-The uninstaller will remove all GameBoost files.
+The uninstaller will remove all EXEcelerate files.
